@@ -31,4 +31,4 @@
 
 图形界面
 
-![image-20230521111647789](C:\Users\10481\AppData\Roaming\Typora\typora-user-images\image-20230521111647789.png)
+![image-20230521111647789](images/image-20230521111647789.png)
