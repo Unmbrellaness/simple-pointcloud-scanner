@@ -25,7 +25,7 @@
 
 ### 4.效果图
 
-![image-20230521111536877](C:\Users\10481\AppData\Roaming\Typora\typora-user-images\image-20230521111536877.png)
+![image-20230521111536877](images/image-20230521111536877.png)
 
 ![P~AG_44S}$3_YPYLA0ZNA7W](C:\Users\10481\Desktop\P~AG_44S}$3_YPYLA0ZNA7W.jpg)
 
